@@ -38,7 +38,7 @@ var postData = {
   format:'json',
   list_type:'shuoshuo',
   action:0,
-  res_uin:951773099,
+  res_uin:'',
   count:1000
 };
 
